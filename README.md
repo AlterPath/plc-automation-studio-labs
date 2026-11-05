@@ -25,3 +25,7 @@ C, B&R Automation Studio, Automation Runtime (ARsim).
 ## Лицензия
 
 [MIT](LICENSE)
+
+---
+
+<sub>Проект выложен на GitHub в октябре 2025, README добавлен в ноябре 2026.</sub>
